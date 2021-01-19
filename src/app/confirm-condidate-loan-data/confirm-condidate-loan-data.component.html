@@ -1,0 +1,17 @@
+<div class="panel panel-success" *ngFor="let item of itemsList">
+    <strong>Customer Type : </strong> {{item.customerType}}<br />
+    <strong>Mortgage Type : </strong> {{item.mortgageType}} <br />
+    <strong>Asset Size : </strong> {{item.assetSize}}<br />
+    <strong>Area Code : </strong> {{item.areaCode}}<br />
+    <strong>Loan Amount : </strong> {{item.loanAmount}}<br />
+    <strong>Tenture (months) : </strong> {{item.tenture}}
+
+    <!-- <div class="panel-footer">
+        <div class="btn-toolbar">
+            <button class="btn-success" type="button" (click)="confirmLoan()">Confirm</button>
+            <button class="btn-danger" type="button" (click)="cancle(item.id)">Cancle</button>
+        </div>
+    </div> -->
+</div>
+
+

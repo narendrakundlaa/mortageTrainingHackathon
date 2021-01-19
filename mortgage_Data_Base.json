@@ -1,0 +1,92 @@
+{
+  "OffersVariousBanks": [
+    {
+      "id": 1,
+      "lender": "HDFC",
+      "InterestRate": "8.75% Onwards",
+      "loanAmount": "Up to 60% of the mortgaged property’s market value",
+      "tenture": "Up to 15 years"
+    },
+    {
+      "id": 2,
+      "lender": "ICICI Bank",
+      "InterestRate": "8.75% Onwards",
+      "loanAmount": "Up to 60% of the mortgaged property’s market value",
+      "tenture": "Up to 15 years"
+    },
+    {
+      "id": 3,
+      "lender": "State Bank of India (SBI)",
+      "InterestRate": "8.75% Onwards",
+      "loanAmount": "Up to 60% of the mortgaged property’s market value",
+      "tenture": "Up to 15 years"
+    },
+    {
+      "id": 4,
+      "lender": "Axis Bank",
+      "InterestRate": "8.75% Onwards",
+      "loanAmount": "Up to 60% of the mortgaged property’s market value",
+      "tenture": "Up to 15 years"
+    },
+    {
+      "id": 5,
+      "lender": "Citibank",
+      "InterestRate": "8.75% Onwards",
+      "loanAmount": "Up to 60% of the mortgaged property’s market value",
+      "tenture": "Up to 15 years"
+    },
+    {
+      "id": 6,
+      "lender": "HSBC Bank",
+      "InterestRate": "8.75% Onwards",
+      "loanAmount": "Up to 60% of the mortgaged property’s market value",
+      "tenture": "Up to 15 years"
+    },
+    {
+      "id": 7,
+      "lender": "IDFC Bank",
+      "InterestRate": "8.75% Onwards",
+      "loanAmount": "Up to 60% of the mortgaged property’s market value",
+      "tenture": "Up to 15 years"
+    },
+    {
+      "id": 8,
+      "lender": "Union Bank of India",
+      "InterestRate": "8.75% Onwards",
+      "loanAmount": "Up to 60% of the mortgaged property’s market value",
+      "tenture": "Up to 15 years"
+    }
+  ],
+  "mortgageTypes": [
+    "new Assets",
+    "existing assets"
+  ],
+  "customerTypes": [
+    "New customer",
+    "Existing Customer",
+    "Primium"
+  ],
+  "check": [
+    {
+      "customerType": "New customer",
+      "mortgageType": "new Assets",
+      "assetSize": "1322",
+      "areaCode": "123156",
+      "loanAmount": "213256",
+      "tenture": "9",
+      "id": 1
+    },
+    {
+      "customerType": "Existing Customer",
+      "mortgageType": "existing assets",
+      "assetSize": "1234568",
+      "areaCode": "12316541",
+      "loanAmount": "1215616",
+      "tenture": "24",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
