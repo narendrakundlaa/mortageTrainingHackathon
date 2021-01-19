@@ -84,6 +84,24 @@
       "loanAmount": "1215616",
       "tenture": "24",
       "id": 2
+    },
+    {
+      "customerType": "New customer",
+      "mortgageType": "new Assets",
+      "assetSize": "123135",
+      "areaCode": "654",
+      "loanAmount": "10000",
+      "tenture": "60",
+      "id": 3
+    },
+    {
+      "customerType": "",
+      "mortgageType": "",
+      "assetSize": "",
+      "areaCode": "",
+      "loanAmount": "",
+      "tenture": "36",
+      "id": 4
     }
   ],
   "profile": {

@@ -19,8 +19,6 @@ export class InterestRatesService {
 
   constructor(private httpClient: HttpClient) { }
 
-
-
   getEmployees(): Observable<any[]> {
     return this.httpClient.get<any[]>(this.baseUrl + 'OffersVariousBanks');
   }
